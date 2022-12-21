@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2 align="center">Hi there, I'm Vitaly 🤝 </h2>
+<h4 align="center">Java developer </h4>
 
-<!--
-**Chinenoff/Chinenoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contacts 📬
 
-Here are some ideas to get you started:
+- E-mail: [pro100cvv@gmail.com](mailto:pro100cvv@gmail.com)
+- VK: [Chinenoff](https://vk.com/id38244069)
+- Telegram: [@pro100cvv](https://t.me/pro100cvv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My skills:
+* Java (Basics, Collection, Stream API, Networking, Core, Multithreading)
+* Design patterns (Builder, Singleton, Factory, Method, Proxy, Decorator, Adapter, Command, Iterator)
+* SQL (MySQL, PostgreSQL)
+* Spring framework (Core, JDBC Template, Web, Data, Boot, Security)
+* ORM (Hibernate)
+* REST, Jackson
+* HTML, CSS, Thymeleaf
+* Unit Testing (JUnit, Mockito)
+* Git (GitHub)
+* Intellij IDEA
+* Visual Studio Code
+* Postman
+* VisualVM
+</br>
+</br>
