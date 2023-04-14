@@ -13,6 +13,7 @@
 * SQL (MySQL, PostgreSQL)
 * Spring framework (Core, JDBC Template, Web, Data, Boot, Security)
 * ORM (Hibernate)
+* RabbitMQ
 * REST, Jackson
 * HTML, CSS, Thymeleaf
 * Unit Testing (JUnit, Mockito)
